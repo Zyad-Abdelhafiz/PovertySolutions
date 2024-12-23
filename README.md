@@ -13,14 +13,13 @@ This project explores poverty trends across selected countries and employs machi
 </p>
 
 
----
 
 ## Project Overview
 
 - **Objective**: Analyze global poverty trends and predict future levels to recommend targeted poverty reduction strategies.
 - **Countries Analyzed**: Brazil, Egypt, Pakistan, Turkey, United States.
 - **Data Source**: Global Poverty Indicators Dataset (1990–2010).
----
+  
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -36,7 +35,7 @@ This project explores poverty trends across selected countries and employs machi
 5. [Conclusion](#conclusion)
 
 
----
+
 ## Data Processing
 
 ### **Steps**:
@@ -79,7 +78,6 @@ This project explores poverty trends across selected countries and employs machi
 | Pipeline Model        | 53.85        |
 | Linear Regression     | 38.31        |
 
----
 
 ## Recommendations for Poverty Reduction
 
@@ -105,7 +103,6 @@ This project explores poverty trends across selected countries and employs machi
 ### Visualization:
 - **Heatmap**: Displays recommendations and their expected impact across countries.
 
----
 
 ## Conclusion
 
