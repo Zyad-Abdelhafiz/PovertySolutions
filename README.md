@@ -1,4 +1,8 @@
-# Poverty Solutions Project
+<div align="center">
+
+# Poverty Solutions Project  
+
+</div>
 
 This project explores poverty trends across selected countries and employs machine learning models to predict future poverty levels. It concludes with actionable recommendations to combat poverty in alignment with sustainable development goals.
 
