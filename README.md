@@ -6,6 +6,10 @@
 
 This project explores poverty trends across selected countries and employs machine learning models to predict future poverty levels. It concludes with actionable recommendations to combat poverty in alignment with sustainable development goals.
 
+- **Goal 1**: No Poverty
+- **Goal 2**: Zero Hunger
+- **Goal 10**: Reduced Inequalities
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2cb7dc91-ac54-4c6d-b509-2692a4b503bb" alt="9" width="20%">
     <img src="https://github.com/user-attachments/assets/dbc424a6-8568-450b-a7cc-3ad02cf414d5" alt="11" width="20%">
